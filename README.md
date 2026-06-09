@@ -10,7 +10,7 @@
 
 ## Installation and Usage
 ### Prerequisites
-- [List required software: react.js , Node.js]
+- [List required software: Javascript, HTML, css, react.js , Node.js]
 
 ### Installation Steps
 1. Clone the repository:
